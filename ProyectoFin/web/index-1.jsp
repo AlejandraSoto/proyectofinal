@@ -61,50 +61,8 @@
                     </div>
                     <div class="grid_4 prefix_1">
                         <a href="#" class="donate">Donar</a>
-                        <h4>Top Videos</h4>
-                        <ul class="list">
-                            <li><a href="#">ELorem ipsum dolor sit </a></li>
-                            <li><a href="#">amet, consectetur adipiscing In</a></li>
-                            <li><a href="#">mollis erat mattis neque </a></li>
-                            <li><a href="#">facilisis, sit amet ultrici</a></li>
-                            <li><a href="#">rutrum. Cras facilisis</a></li>
-                            <li><a href="#">viverra auctor, leo magna </a></li>
-                            <li><a href="#">sodales felis, quis males</a></li>
-                            <li><a href="#">uada nibh odio ut velit</a></li>
-                            <li><a href="#">pharetra luctus </a></li>
-                            <li><a href="#">diamscelerisque eros</a></li>
-                            <li><a href="#">convallis accumsan</a></li>
-                            <li><a href="#">vehicula egestas </a></li>
-                        </ul>
-                        <h4 class="head1">Archive</h4>
-                        <div class="block3">
-                            <time datetime='2013-01-01'><span>21</span>nov</time>
-                            <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Lorem ipsum dolor sitamet conse cteturun adipisicing elit.</a></p>Incididunt ut labore et dolore magna aliquaten 
-                                <span class="col1"><a href="#">[...]</a></span>
-                            </div>
-                        </div>
-                        <div class="block3">
-                            <time datetime='2013-01-01'><span>20</span>nov</time>
-                            <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Sed ut perspiciatis unde omnis iste natus error sitem.</a></p>Incididunt ut labore et dolore magna aliqua. Uten enimad minim veniam
-                                <span class="col1"><a href="#">[...]</a></span>
-                            </div>
-                        </div>
-                        <div class="block3">
-                            <time datetime='2013-01-01'><span>19</span>nov</time>
-                            <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Ut enim ad minima veniam quise nostrum exercitationem.</a></p>Incididunt ut labore et dolore magna aliquaten 
-                                <span class="col1"><a href="#">[...]</a></span>
-                            </div>
-                        </div>
-                        <div class="block3">
-                            <time datetime='2013-01-01'><span>10</span>nov</time>
-                            <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Ferenim ad minim eniam quiset nostrum exercitatione.</a></p>Incididunt ut labore et dolore magna aliquaten 
-                                <span class="col1"><a href="#">[...]</a></span>
-                            </div>
-                        </div>
+                        
+                       
                     </div>
                 </div>
             </div>

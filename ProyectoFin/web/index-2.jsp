@@ -41,7 +41,7 @@
     </head>
     <body class="" id="top">
         <!--==============================header=================================-->
-         <header>
+        <header>
             <jsp:include page="Vista/header.jsp" flush="true" />
         </header>
         <div class="main">
@@ -49,89 +49,61 @@
             <div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
                 <div class="container_12">
                     <div class="grid_8">
-                        <h2>CAmpaigns</h2>
+                        <h2>¿Qué hacemos?</h2>
                         <div class="blog">
                             <img src="images/page3_img1.jpg" alt="" class="img_inner fleft">
                             <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a></p>
+                                <p class="col1"><a href="#">Casa Hogar</a></p>
                                 <div class="blog_info">
                                     <time datetime="2013-01-01">14-12-2013 </time>
                                     <a href="#" class="user">admin</a>
                                     <a href="#" class="comment">23</a>
-                                </div>Incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis noud exercittion ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehederit in voluptate velit.
+                                </div>Alojamos a 40 niños de los 4 hasta a los 10 años en nuestra casa hogar. Los alimentamos, vestimos, enviamos a la escuela y apoyamos en sus deberes escolares, orientamos a sus familias y los instruimos en valores cristianos universales, tales como respeto, amor y trabajo, entre otros.
+                                Nuestros pequeños provienen de hogares desintegrados, en extrema pobreza o de padres o madres solteros de escasos recursos. También atendemos a niños huérfanos y en situación de abandono.
                                 <br>
-                                <a href="#" class="btn">Read More</a>
+                                <a href="#" class="btn">Leer más</a>
                             </div>
                         </div>
                         <div class="blog">
                             <img src="images/page3_img2.jpg" alt="" class="img_inner fleft">
                             <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Ted ut erspiciatis unde omnis iste natus error sit voluptateki.</a></p>
+                                <p class="col1"><a href="#">Taller de Panaderia y Repostería</a></p>
                                 <div class="blog_info">
                                     <time datetime="2013-01-01">14-12-2013 </time>
                                     <a href="#" class="user">admin</a>
                                     <a href="#" class="comment">23</a>
-                                </div>Dercididunt ut labore et dolore magnaiqua. Ut enimad minim veniam, quis no exercition ullamco laboris nisi ut aliquip ex ea coodo consequat.Duis aute irure dolor in reprerit in trolity wertoli nomit.
-                                <br>
-                                <a href="#" class="btn">Read More</a>
+                                </div>Actualmente contamos con un Taller de panadería y repostería debidamente equipado, en donde los  chicos del Mexicanito, se les capacita en esta área y elaboran productos que se comercializan y  están a la venta para la recuperación  y compra de materia prima. 
+                                <br> 
+
+                                <a href="#" class="btn">Leer más</a> 
                             </div>
+                            <br> <br>
+                            Apóyanos consumiento las ricas Galletas, elaboradas por los niños en su taller de panadería y repostería, haz tu pedido a los teléfonos 5565-2087 , 5565-0224.
                         </div>
-                        <div class="blog">
-                            <img src="images/page3_img3.jpg" alt="" class="img_inner fleft">
-                            <div class="extra_wrapper">
-                                <p class="col1"><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.</a></p>
-                                <div class="blog_info">
-                                    <time datetime="2013-01-01">14-12-2013 </time>
-                                    <a href="#" class="user">admin</a>
-                                    <a href="#" class="comment">23</a>
-                                </div>Fercididunt ut labore et dolore magnaqua. Ut enimad minim veniam, quis nostrud ttion ullamco laboris nisi ut aliquip esequat.Duis aute irure dolor in ehederit in voluptate velit esse cillum dolore. Eu fugiat nulla pariavtur. 
-                                <br>
-                                <a href="#" class="btn">Read More</a>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="grid_4">
-                        <a href="#" class="donate">Donate</a>
-                        <h3 class="head1">poll</h3>
-                        <div class="text3"> What do you think about us?</div>
-                        <div class="rate">Super 
-                            <div class="perc">39%</div>
-                            <div class="clear"></div>
-                            <div class="scale pr1"><span></span></div>
-                        </div>
-                        <div class="rate">Good 
-                            <div class="perc ">31%</div>
-                            <div class="clear"></div>
-                            <div class="scale pr2"><span></span></div>
-                        </div>
-                        <div class="rate">Normal
-                            <div class="perc ">20%</div>
-                            <div class="clear"></div>
-                            <div class="scale pr3"><span></span></div>
-                        </div>
-                        <div class="rate">Bad
-                            <div class="perc ">11%</div>
-                            <div class="clear"></div>
-                            <div class="scale pr4"><span></span></div>
-                        </div>
-                        <h3 class="head1">Our team</h3>
+                        <h4> "mientras haya una niña pobre y extraviada en las calles, lucharé" William Booth</h4>
+                        <a href="#" class="donate">Donar</a>
+                        
+                        <h3 class="head1">Testimonios</h3>
                         <div class="bl1">
                             <div class="blog">
                                 <img src="images/page3_img4.jpg" alt="" class="img_inner fleft">
                                 <div class="extra_wrapper">
-                                    <div class="title"><a href="#"> Mark Johnson </a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
+                                    <div class="title"><a href="#">Mario Albarrán</a></div>Gracias señoras del Patronato, no hay precio para agradecerles su bondad; todos los Mexicanitos de ayer, los de hoy y los de siempre, Dios los premie.
                                 </div>
                             </div>
                             <div class="blog">
                                 <img src="images/page3_img5.jpg" alt="" class="img_inner fleft">
                                 <div class="extra_wrapper">
-                                    <div class="title"><a href="#"> Ann Parker</a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
+                                    <div class="title"><a href="#">Paty López</a></div>Gracias a esta noble institucion, y a la gente del Patronato, a las Hermanas Religiosas, por la labor encomendada por Dios, para hacer seres humanos dignos para la sociedad. 
                                 </div>
                             </div>
                             <div class="blog">
                                 <img src="images/page3_img6.jpg" alt="" class="img_inner fleft">
                                 <div class="extra_wrapper">
-                                    <div class="title"><a href="#"> Emily Willson</a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
+                                    <div class="title"><a href="#">AMALIA CASTILLO PALAFOX</a></div>Gracias al Patronato y a la Congregación de las hijas de San Vicente de Paul, que nos hicieron gente de bien.
                                 </div>
                             </div>
                         </div>
@@ -140,7 +112,7 @@
             </div>
             <!--==============================footer=================================-->
             <footer>
-               <jsp:include page="Vista/footer.jsp" flush="true" />
+                <jsp:include page="Vista/footer.jsp" flush="true" />
             </footer>
         </div>
     </body>
