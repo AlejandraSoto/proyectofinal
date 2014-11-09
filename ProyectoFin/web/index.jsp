@@ -93,7 +93,7 @@
     <body class="page1" id="top">
         <!--==============================header=================================-->
         <header>
-            <jsp:include page="header.jsp" flush="true" />
+            <jsp:include page="Vista/header.jsp" flush="true" />
         </header>
         <div class="main">
             <!--==============================Content=================================-->
@@ -259,7 +259,7 @@
             </div>
             <!--==============================footer=================================-->
             <footer>
-               <jsp:include page="footer.jsp" flush="true" />
+               <jsp:include page="Vista/footer.jsp" flush="true" />
             </footer>
         </div>
     </body>
