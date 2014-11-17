@@ -62,7 +62,7 @@
             <!--END SLIDE-IN ICONS-->
 
             <!--LOGIN FORM-->
-            <form name="login-form" class="login-form" action="index.jsp" method="post">
+            <form name="login-form" class="login-form" action="LoginServlet" method="post">
 
                 <!--HEADER-->
                 <div class="header">
@@ -74,8 +74,8 @@
 
                 <!--CONTENT-->
                 <div class="content">
-                    <!--USERNAME--><input name="username" type="text" class="input username" value="Username" onfocus="this.value = ''" /><!--END USERNAME-->
-                    <!--PASSWORD--><input name="password" type="password" class="input password" value="Password" onfocus="this.value = ''" /><!--END PASSWORD-->
+                    <!--USERNAME--><input name="user" type="text" class="input username" value="Username" onfocus="this.value = ''" /><!--END USERNAME-->
+                    <!--PASSWORD--><input name="pwd" type="password" class="input password" value="Password" onfocus="this.value = ''" /><!--END PASSWORD-->
                 </div>
                 <!--END CONTENT-->
 
