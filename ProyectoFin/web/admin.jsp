@@ -52,7 +52,7 @@
         <!--WRAPPER-->
         <div id="wrapper">
             <h1>
-                <a href="index.html">
+                <a href="panel.html">
                     <img src="images/logo2.png" alt="Your Happy Family">
                 </a>
             </h1>

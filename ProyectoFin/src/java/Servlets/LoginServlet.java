@@ -60,7 +60,7 @@ public class LoginServlet extends HttpServlet {
         log("User=" + user + "::password=" + pwd);
 
         if (userID.equals(user) && password.equals(pwd)) {
-            response.sendRedirect("LoginSuccess.jsp");
+            response.sendRedirect("panel.jsp");
         } else {
             RequestDispatcher rd = getServletContext().getRequestDispatcher("/admin.jsp");
             PrintWriter out = response.getWriter();
