@@ -8,8 +8,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
     <head>
-
-
         <!--META-->
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Admin</title>
@@ -35,17 +33,7 @@
             $(".pass-icon").css("left", "0px");
             });
             });        </script>
-        <SCRIPT  language=JavaScript>
-                    function go(){
-
-                    if (document.form.password.value == 'CONTRASEA' ++ document.form.username.value=='USUARIO'){ 
-                            document.form.submit();
-                    }
-                    else{
-                    alert("Porfavor ingrese, nombre de usuario y contraseña correctos.");
-                    }
-                    }
-        </SCRIPT> 
+        
     </head>
     <body>
 
@@ -81,7 +69,7 @@
 
                 <!--FOOTER-->
                 <div class="footer">
-                    <!--LOGIN BUTTON--><input onclick=go() type="submit" name="submit" value="Entrar" class="button" /><!--END LOGIN BUTTON-->
+                    <!--LOGIN BUTTON--><input type="submit" name="submit" value="Entrar" class="button" /><!--END LOGIN BUTTON-->
 
                 </div>
                 <!--END FOOTER-->

@@ -62,16 +62,17 @@
                         <div class="map">
                             <address>
                                 <dl>
-                                    <dt>Casa hogar para niñas Elena Domene de González A.C.<br>
+                                    <dt>Hogar para niñas Elena Domene de González A.C.<br>
                                     Av. Allende #1146  Ote. <br>
                                     Col. Centro C.P. 27000<br>
                                     Torreón Coah.
                                     </dt>
 
-                                    <dd><span>Teléfono:</span>01 87 17 22 76 79 </dd>
+                                    <dd><span>Teléfono:</span>7 22 76 79 </dd>
                                     <dd><span>Fax:</span>7 22 76 49</dd>
-                                    <dd>E-mail: <a href="#" class="col1">casadejesuselenadomene@mujerfuerte.org</a></dd>
-                                    <dd>No. de Cuenta: <a href="#" class="col1">BANAMEX 1137938126</a></dd>
+                                    <dd>E-mail: <a href="#" class="col1">hogarelena_cj@yahoo.com.mx</a></dd>
+                                    <dd>Facebook: <a href="https://www.facebook.com/pages/Hogar-para-ni%C3%B1as-Elena-Domene-de-Gonzalez-A-C/420388404704941?sk=timeline" class="col1">Hogar para niñas Elena Domene</a> </dd>
+                                    <dd>No. de Cuenta: <a href="#" class="col1">BANORTE 0820572286</a></dd>
                                 </dl>
                             </address>
 

@@ -100,24 +100,24 @@
             <div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
                 <div class="container_12">
                     <div class="grid_8">
-                        <div class="flexslider">
+                        <div class="flexslider"> 
                             <ul class="slides">
                                 <li>
                                     <img src="images/page1_img1.jpg" alt="">
                                     <div class="flex-caption">
-                                        <p>Formación Integral</p>
+                                        <p>Amor</p>
                                     </div>
                                 </li>
                                 <li>
                                     <img src="images/page1_img2.jpg" alt="">
                                     <div class="flex-caption c2">
-                                        <p>Asistencia Social</p>
+                                        <p>Piedad</p>
                                     </div>
                                 </li>
                                 <li>
                                     <img src="images/page1_img3.jpg" alt="">
                                     <div class="flex-caption">
-                                        <p>Cohesión Comunitaria</p>
+                                        <p>Libertad</p>
                                     </div>
                                 </li>
                             </ul>
@@ -138,7 +138,7 @@
                         <div class="block2 maxheight">
                             <div class="title">Misión</div>
                             <div class="pad">
-                                Preservar a niñas que viven en situación vulnerable proporcionándoles un desarrollo integral a través de programas centrados en la formación humana, educación y valores para lograr transformar su futuro.
+                                Proteger y educar a las niñas y adolescentes en situación de riesgo preservándolas del peligro moral, y brindándoles una formación sociomoral, escolar y técnica que las capaciten como mujeres de bien para ser miembros útiles a la sociedad.
                                 <div class="alright"><a href="#" class="btn">Leer más</a></div>
                             </div>
                         </div>
@@ -147,7 +147,7 @@
                         <div class="block2 maxheight">
                             <div class="title">Visión</div>
                             <div class="pad">
-                                Ser una institución reconocida por transformar la vida de niñas haciéndolas participes de una sociedad más justa.<div class="alright"><a href="#" class="btn">Leer más</a></div>
+                                Ser una institución reconocida por la calidad humana y religiosa del desempeño de su trabajo a favor de la promoción de la dignidad de la mujer y con una alta dimensión de plaenación estratégica para ofrecer mejores oportunidades de formación.<div class="alright"><a href="#" class="btn">Leer más</a></div>
                             </div>
                         </div>
                     </div>
