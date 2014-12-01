@@ -9,16 +9,18 @@
 <html lang="en">
     <head>
         <title>Header</title>
+        
+    
+
     </head>
     <body>
+        
         <div class="clear"></div>
         <div class="container_12">
+            
             <div class="grid_12">
-                <h1>
-                    <a href="index.html">
-                        <img src="images/logo2.png" alt="Your Happy Family">
-                    </a>
-                </h1>
+                <img src="images/logocasa.png" alt=""/>
+                
                 <div class="menu_block">
                     <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                         <ul class="sf-menu">
@@ -34,7 +36,7 @@
                                 </ul>
                             </li>
                             <li><a href="index-1.jsp">¿Quiénes somos? </a></li>
-                            <li><a href="index-2.jsp">¿Qué hacemos?</a></li>
+                            <li><a href="index-11.jsp">Nuestra Historia </a></li>                            
                             <li><a href="index-3.jsp">¿Como ayudar? </a></li>
                             <li><a href="index-4.jsp">Contacto</a></li>
                         </ul>

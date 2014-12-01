@@ -8,6 +8,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+
+
         <title>Home</title>
         <meta charset="utf-8">
         <meta name = "format-detection" content = "telephone=no" />
@@ -103,7 +105,7 @@
                         <div class="flexslider"> 
                             <ul class="slides">
                                 <li>
-                                    <img src="images/page1_img1.jpg" alt="">
+                                    <img src="images/1.jpg" alt="">
                                     <div class="flex-caption">
                                         <p>Amor</p>
                                     </div>
@@ -115,7 +117,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="images/page1_img3.jpg" alt="">
+                                    <img src="images/libertad.jpg" alt="">
                                     <div class="flex-caption">
                                         <p>Libertad</p>
                                     </div>
@@ -125,13 +127,11 @@
                         <span id="responsiveFlag"></span>
                     </div>
                     <div class="grid_4">
-                        <a href="#" class="donate">Donar</a>
-                        <div class="text1">"Si ayudo a una sola persona a tener esperanza, no habré vivido en vano" Martin Luther King,Jr. (1929-1968)</div>
-                        <p>Objetivos:<br>
-                            Formación Integral,
-                            Asistencia Social,
-                            Cohesión Comunitaria. </p>
+                        <a href="index-3.jsp" class="donate">Donar</a>
+                        <div class="text1"></div>
+
                         
+                        <img src="images/monitos-1.png" alt=""/>
                     </div>
                     <div class="clear"></div>
                     <div class="grid_3">
@@ -139,7 +139,7 @@
                             <div class="title">Misión</div>
                             <div class="pad">
                                 Proteger y educar a las niñas y adolescentes en situación de riesgo preservándolas del peligro moral, y brindándoles una formación sociomoral, escolar y técnica que las capaciten como mujeres de bien para ser miembros útiles a la sociedad.
-                                <div class="alright"><a href="#" class="btn">Leer más</a></div>
+
                             </div>
                         </div>
                     </div>
@@ -147,31 +147,44 @@
                         <div class="block2 maxheight">
                             <div class="title">Visión</div>
                             <div class="pad">
-                                Ser una institución reconocida por la calidad humana y religiosa del desempeño de su trabajo a favor de la promoción de la dignidad de la mujer y con una alta dimensión de plaenación estratégica para ofrecer mejores oportunidades de formación.<div class="alright"><a href="#" class="btn">Leer más</a></div>
+                                Ser una institución reconocida por la calidad humana y religiosa del desempeño de su trabajo a favor de la promoción de la dignidad de la mujer y con una alta dimensión de plaenación estratégica para ofrecer mejores oportunidades de formación.
+
                             </div>
                         </div>
                     </div>
                     <div class="grid_3">
                         <div class="block2 maxheight">
-                            <div class="title">Requisitos</div>
+                            <div class="title">Valores</div>
                             <div class="pad">
-                                Edad 6 a 12 años<br>
-                                Kinder y primaria 
-                                <div class="alright"><a href="#" class="btn">Leer más</a></div>
+                                <ul class="list">
+                                    <li>Amor</li>
+                                    <li>Verdad</li>
+                                    <li>Libertad</li>
+                                    <li>Piedad</li>
+                                    <li>Sencillez</li>                           
+                                </ul>
                             </div>
                         </div>
                     </div>
                     <div class="grid_3">
                         <div class="block2 maxheight">
-                            <div class="title">Otros Beneficios</div>
+                            <div class="title">Necesidades para su atención:</div>
                             <div class="pad">
-                                Valores<br>
-                                Acompañamiento 
-                                Convivencias<div class="alright"><a href="#" class="btn">Leer más</a></div></div>
+                                <ul class="list">
+                                    <li>ARTÍCULOS DE LIMPIEZA Y DESPENSA</li>
+                                    <li>ROPA</li>
+                                    <li>ZAPATOS</li>
+                                    <li>ARTÍCULOS ESCOLARES</li>
+                                   
+                                </ul>
+                                
+                            </div>
                         </div>
                     </div>
                     <div class="clear"></div>
-                    <div class="grid_12">
+                    <br>
+                    <img src="images/Fotor1130164244.jpg" alt=""/>
+                    <!--<div class="grid_12">
                         <h2>Beca a una niña</h2>
                         <div id="owl">
                             <div class="item">
@@ -207,9 +220,13 @@
                                     6 años</a>
                             </div>
                         </div>
-                    </div>
+                    </div>--->
                     <div class="grid_4">
-                        <h3 class="nowrap mb0">....</h3>
+                        <br>
+                        <h3>Todos juntos a apoyarnos. Los esperamos!<br></h3>
+                        Venta de Boletos en Allende 1146 Col. Centro, una cuadra antes del bosque.
+                        <img src="images/16805_931082470302196_5653719098484566588_n.jpg" alt=""/>
+                        <!--<h3 class="nowrap mb0">....</h3>
                         <time class="st1" datetime="2013-01-01">09.11.2014</time>
                         <table>
                             <tr>
@@ -240,6 +257,7 @@
                                 </td>
                             </tr>
                         </table>
+                        -->
 
                         <div class="alright"><a href="#" class="btn">Leer más</a></div>
                     </div>
@@ -252,14 +270,16 @@
                             Lunes a Viernes de 9:00 a. m. a 12:30 p. m. y de 4:30 a 6:30 <br>
                             Sábados de 10:00 a 1:00 p.m.
                         </div>
+                        <img src="images/mariposa_1.jpg" alt=""/>
                         <div class="clear"></div>
-                        <div class="alright"><a href="#" class="btn">Leer más</a></div>
+                        
+                        <!--<div class="alright"><a href="#" class="btn">Leer más</a></div>-->
                     </div>
                 </div>
             </div>
             <!--==============================footer=================================-->
             <footer>
-               <jsp:include page="Vista/footer.jsp" flush="true" />
+                <jsp:include page="Vista/footer.jsp" flush="true" />
             </footer>
         </div>
     </body>

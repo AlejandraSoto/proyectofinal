@@ -43,7 +43,7 @@
     </head>
     <body class="" id="top">
         <!--==============================header=================================-->
-         <header>
+        <header>
             <jsp:include page="Vista/header.jsp" flush="true" />
         </header>
         <div class="main">
@@ -53,7 +53,7 @@
                     <div class="grid_12">
                         <div class="map">
                             <figure class=" ">
-                                <iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1799.956557006343!2d-103.43596466441808!3d25.541270942904976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868fdbc388b4cfef%3A0xbd64f1889c54580c!2sAv+Allende+1146%2C+Tercero+de+Cobian+Centro%2C+27000+Torre%C3%B3n%2C+COAH!5e0!3m2!1ses-419!2smx!4v1417364881689" width="600" height="450" frameborder="0" style="border:0"></iframe>
                             </figure>
                         </div>
                     </div>
@@ -90,16 +90,19 @@
                                 <span class="empty-message">*This field is required.</span>
                                 <span class="error-message">*This is not a valid name.</span>
                             </label>
+                            <br><br>
                             <label class="email">
                                 <input type="text" placeholder="E-mail:" data-constraints="@Required @Email" />
                                 <span class="empty-message">*This field is required.</span>
                                 <span class="error-message">*This is not a valid email.</span>
-                            </label>
-                            <label class="phone">
-                                <input type="text" placeholder="Teléfono:" data-constraints="@Required @JustNumbers"/>
-                                <span class="empty-message">*This field is required.</span>
-                                <span class="error-message">*This is not a valid phone.</span>
-                            </label>
+                            </label><br><br>
+                            <label class="telefono">
+                                <input type="text" name="telefono" placeholder="Teléfono">
+                                <span class="empty-message">*Este campo es obligatorio.</span>
+                                <span class="error-message">*Este no es un teléfono válido.</span>
+                                <br><br>
+                            </label>                            
+                            <br><br>
                             <label class="message">
                                 <textarea placeholder="Mensaje:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
                                 <span class="empty-message">*This field is required.</span>
@@ -117,8 +120,8 @@
                 </div>
             </div>
             <!--==============================footer=================================-->
-           <footer>
-               <jsp:include page="Vista/footer.jsp" flush="true" />
+            <footer>
+                <jsp:include page="Vista/footer.jsp" flush="true" />
             </footer>
         </div>
     </body>

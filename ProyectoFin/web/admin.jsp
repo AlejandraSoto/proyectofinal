@@ -56,7 +56,7 @@
                 <div class="header">
 
                     <!--TITLE--><h1>Administrador</h1><!--END TITLE-->
-                    <!--DESCRIPTION--><span>Fill out the form below to login to control panel.</span><!--END DESCRIPTION-->
+                    <!--DESCRIPTION<span>Fill out the form below to login to control panel.</span><!--END DESCRIPTION-->
                 </div>
                 <!--END HEADER-->
 
