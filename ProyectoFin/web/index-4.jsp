@@ -81,14 +81,14 @@
                     </div>
                     <div class="grid_8">
                         <h3>Contacto</h3>
-                        <form id="form">
+                        <form action="mailto:ale_xhp3@hotmail.com" enctype="text/plain" method="post" id="form">
                             <div class="success_wrapper">
-                                <div class="success-message">Contact form submitted</div>
+                                <div class="success-message">Mensaje enviado</div>
                             </div>
                             <label class="name">
                                 <input type="text" placeholder="Nombre" data-constraints="@Required @JustLetters" />
-                                <span class="empty-message">*This field is required.</span>
-                                <span class="error-message">*This is not a valid name.</span>
+                                <span class="empty-message">*Campo obligatorio.</span>
+                                <span class="error-message">*Dato invalido.</span>
                             </label>
                             <br><br>
                             <label class="email">
@@ -111,7 +111,8 @@
                             <div>
                                 <div class="clear"></div>
                                 <div class="btns">
-                                    <a href="#" data-type="submit" class="btn">Enviar</a>
+                                    <input type="submit" name="Submit" value="Submit">
+                                    <!--<a href="mailto:ale_xhp3@hotmail.com" data-type="submit" class="btn">Enviar</a>-->
                                     <a href="#" data-type="reset" class="btn">Limpiar</a>
                                 </div>
                             </div>
